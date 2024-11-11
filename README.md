@@ -10,11 +10,11 @@ Sou academmica de Engenharia de Software, iniciado em 2024.1, na Universidade Ca
 ![My Skills](https://skillicons.dev/icons?i=css,html,js,java&theme=dark)
 ![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,bash&theme=dark)
 <br><br>
-![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=isadoracaarvalho&layout=compact&langs_count=6&count_private=true&theme=tokyonight)
+<!--![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=isadoracaarvalho&layout=compact&langs_count=6&count_private=true&theme=tokyonight)
 
 ## 📈 Stats:
 
-![GitHub stats](https://github-readme-stats-udimile.vercel.app/api?username=isadoracaarvalho&count_private=true&theme=tokyonight&include_all_commits=true&layout=compact)
+![GitHub stats](https://github-readme-stats-udimile.vercel.app/api?username=isadoracaarvalho&count_private=true&theme=tokyonight&include_all_commits=true&layout=compact) -->
 
 ## 📫 Contato
 Você pode me encontrar nas seguintes redes sociais:
