@@ -1,33 +1,28 @@
 <div align="center">
- 
-# Olá, sou a Isadora 👩🏽‍🦱
+ <h1>Oii! Eu sou a Isadora Carvalho :)</h1> 
 
-Sou academmica de Engenharia de Software, iniciado em 2024.1, na Universidade Católica do Salvador. Desennvolvendo, até o momento, em Java, JavaScript, CSS e Html.
-<br>
+<div>
+  <p>Uma estudante de Engenharia de Software em busca do aprendizado contínuo e desenvolvimento de habilidades, registrando o minha evolução com a programação.</p>
 
-## ⚡ Skills:
-
-![My Skills](https://skillicons.dev/icons?i=css,html,js,java&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,bash&theme=dark)
-<br><br>
-<!--![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=isadoracaarvalho&layout=compact&langs_count=6&count_private=true&theme=tokyonight)
-
-## 📈 Stats:
-
-![GitHub stats](https://github-readme-stats-udimile.vercel.app/api?username=isadoracaarvalho&count_private=true&theme=tokyonight&include_all_commits=true&layout=compact) -->
-
-## 📫 Contato
-Você pode me encontrar nas seguintes redes sociais:
-
-<!-- ([![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/udimile/)
-[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/udimile) 
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/765360474450821181)
-[![Gitlab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://gitlab.com/udimile)
-
-Ou me enviar um email para <a href = "mailto:udimile@gmail.com" >udimile@gmail.com<a/>. )-->
-
-
- Feito com :heart: e JavaScript.
  <br>
- Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
+ 
+  <a href="https://github.com/isadoracaarvalho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoracaarvalho&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoracaarvalho&layout=compact&theme=radical"/>
+</div>
+
+## Minhas tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Isa-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
+  <img align="center" alt="Isa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Isa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Isa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Isa-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+## 
+
+<div> 
+ <a href="https://www.linkedin.com/in/isadoracaarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
