@@ -2,7 +2,7 @@
  <h1>Oii! Eu sou a Isadora Carvalho :)</h1> 
 
 <div>
-  <p>Uma estudante de Engenharia de Software em busca do aprendizado contínuo e desenvolvimento de habilidades, registrando o minha evolução com a programação.</p>
+  <p>Uma estudante de Engenharia de Software em busca do aprendizado contínuo e desenvolvimento de habilidades, registrando a minha evolução com a programação.</p>
 
  <br>
  
