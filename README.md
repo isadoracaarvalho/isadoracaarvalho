@@ -8,7 +8,7 @@
 
 ### Sobre mim
 
-Sou uma estutante de Engenharia de Software em busca de aprendizado contínuo e desenvolvimento de novas habilidades, registrando a minha evolução com a programação.
+Sou uma estudante de Engenharia de Software em busca de aprendizado contínuo e desenvolvimento de novas habilidades, registrando a minha evolução com a programação.
 
 Atualmente tenho desenvolvido interesse nas áreas de gestão de projetos, análise de requisitos, testes de software e desenvolvimento, buscando ampliar minha visão sobre todo o ciclo de vida de um produto.
 
@@ -22,7 +22,7 @@ Atualmente tenho desenvolvido interesse nas áreas de gestão de projetos, anál
 
 ---
 
-## Fale comigo 
+### Fale comigo 
 
 <div>
   <a href="mailto:isadoracarvalho447@gmail.com" target="_blank">
