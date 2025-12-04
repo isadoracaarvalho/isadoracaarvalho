@@ -1,28 +1,37 @@
-<div align="center">
- <h1>Oii! Eu sou a Isadora Carvalho :)</h1> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF1493&reversal=false"/>
+
+<h1 align="center" >Oii! Eu sou a Isadora Carvalho :)</h1> 
+
+<div align="center"><br>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" align="right" alt="Professional coder animation" />
+</div>
+
+### Sobre mim
+
+Sou uma estutante de Engenharia de Software em busca de aprendizado contínuo e desenvolvimento de novas habilidades, registrando a minha evolução com a programação.
+
+Atualmente tenho desenvolvido interesse nas áreas de gestão de projetos, análise de requisitos, testes de software e desenvolvimento, buscando ampliar minha visão sobre todo o ciclo de vida de um produto.
+
+---
+
+### Minhas tecnologias
 
 <div>
-  <p>Uma estudante de Engenharia de Software em busca do aprendizado contínuo e desenvolvimento de habilidades, registrando a minha evolução com a programação.</p>
-
- <br>
- 
-  <a href="https://github.com/isadoracaarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadoracaarvalho&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoracaarvalho&layout=compact&theme=radical"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,cypress,vite,vercel" />
 </div>
 
-## Minhas tecnologias
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Isa-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
-  <img align="center" alt="Isa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Isa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isa-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+## Fale comigo 
+
+<div>
+  <a href="mailto:isadoracarvalho447@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/isadoracaarvalho/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
-## 
 
-<div> 
- <a href="https://www.linkedin.com/in/isadoracaarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF1493&reversal=false&section=footer" />
